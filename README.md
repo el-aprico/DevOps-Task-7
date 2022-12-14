@@ -21,7 +21,7 @@ docker swarm init --advertise-addr 192.168.0.1
 ```
 __5. Clone this Repository__
 ```console
-git clone https://github.com/el-aprico/devops7.git && cd devops7
+git clone https://github.com/el-aprico/DevOps-Task-7.git && cd DevOps-Task-7
 ```
 __6. Deploy the Application__
 ```console
